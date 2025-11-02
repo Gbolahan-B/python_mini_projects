@@ -12,4 +12,4 @@ while True:
         print(f"You have rolled the dice {counter} times")
         break
     else:
-        print("Enter (Y/N)")
+        print("Enter (y/n)")
